@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class EjerciciosParaEntrega2 {
     public static void main(String[] args) {
-        //Ejercicio1();
-        //Ejercicio2();
-        //Ejercicio3();
+        Ejercicio1();
+        Ejercicio2();
+        Ejercicio3();
         Ejercicio4();
     }
 
