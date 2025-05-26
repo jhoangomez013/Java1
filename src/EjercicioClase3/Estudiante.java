@@ -1,3 +1,5 @@
+package EjercicioClase3;
+
 public class Estudiante {
 
     private int edad;

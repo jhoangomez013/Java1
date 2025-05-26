@@ -1,4 +1,4 @@
-package Clase6;
+package EjerciciosClase6;
 
 public class Ciclos {
     public static void main(String[] args) {

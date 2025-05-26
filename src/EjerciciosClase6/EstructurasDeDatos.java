@@ -1,4 +1,4 @@
-package Clase6;
+package EjerciciosClase6;
 
 import java.util.ArrayList;
 import java.util.List;

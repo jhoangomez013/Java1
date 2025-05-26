@@ -1,4 +1,4 @@
-package Clase6;
+package EjerciciosClase6;
 
 import java.util.Scanner;
 
@@ -49,5 +49,7 @@ public class Main {
             default -> "El numero de la semana no existe";
         };
         System.out.println(respuesta);
+        sc.close();
     }
+
 }
